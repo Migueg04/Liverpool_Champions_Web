@@ -180,7 +180,7 @@ class Carousel extends HTMLElement {
 
                 .card-text {
                     margin: 8px 0 0;
-                    font-size: 15px;
+                    font-size: 14px;
                     line-height: 1.3;
                     opacity: 0;
                     max-height: 0;
